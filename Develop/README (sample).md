@@ -57,4 +57,4 @@ Unless required by applicable law or agreed to in writing, software distributed 
   <a name="questions"></a>
   ## Questions:
   
-  You can contact me by finding me on GitHub @priscillaluong or email me at p-luong@live.co.uk
+  You can find me on GitHub https://github.com/priscillaluong or email me at p-luong@live.co.uk

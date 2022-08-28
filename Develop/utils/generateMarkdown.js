@@ -155,7 +155,7 @@ function generateMarkdown(data) {
   <a name="questions"></a>
   ## Questions:
   
-  You can contact me by finding me on GitHub @${data.github} or email me at ${data.email}
+  You can find me on GitHub https://github.com/${data.github} or email me at ${data.email}
 `;
 
 }
