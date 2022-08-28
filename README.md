@@ -84,6 +84,9 @@ The user will be prompted with a series of questions, the first question being '
 
 [Click here](https://youtu.be/qqUTjRNRPQ4) 
 
+## Link to Sample README file:
+
+[Click here](https://github.com/priscillaluong/nodejs-readme-generator/blob/main/Develop/README%20(sample).md)
 ### Final note:
 
 *Any feedback to improve code or implement best practice would be appreciated* 😊
