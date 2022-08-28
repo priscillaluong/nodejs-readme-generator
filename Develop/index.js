@@ -32,7 +32,7 @@ const questions = [
     },
     {
       type: 'input',
-      name: 'tests',
+      name: 'test',
       message: 'Please enter the test instructions:',
     },
     {
