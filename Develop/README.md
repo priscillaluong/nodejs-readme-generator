@@ -1,6 +1,6 @@
-# asd
+# Sample README
 
-  ![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
+  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
   ## Table of Contents:
 
@@ -21,44 +21,40 @@
   <a name="description"></a>
   ## Description:
   
-  asd
+  A README generator which helps you save time so you can focus on creating something amazing!
   
   <a name="installation"></a>
   ## Installation Instructions:
   
-  asd
+  	npm install
   
   <a name="usage"></a>
   ## Usage Information:
   
-  as
+  Clone the repo, install NPM packages, run node index.js in terminal and answer the required prompts to generate your README.md
   
   <a name="contribution"></a>
   ## Contribution Guidelines:
   
-  da
+  Contributions are what makes the open source community such an amazing place to learn, inspire and create! Any contributions you make are greatly appreciated.
   
   <a name="test"></a>
   ## Test Instructions:
   
-  ad
+  N/A
   
   <a name="license"></a>
-  ## License (BSD):
+  ## License (Apache):
   
-  Copyright (C) 2022, asd
+  Copyright (C) 2022, Priscilla Luong
 
-  Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
       
-1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
-      
-2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
-      
-3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
-      
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+http://www.apache.org/licenses/LICENSE-2.0
+   
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
   
   <a name="questions"></a>
   ## Questions:
   
-  You can contact me by finding me on GitHub @asd or emailing me at ad
+  You can contact me by finding me on GitHub @priscillaluong or email me at p-luong@live.co.uk
